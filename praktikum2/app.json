@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "praktikum2",
+    "slug": "snack-7fdf1ae3-7157-497e-8f08-7f8a5f6efe9a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Nama : Chofifah Fara Amlati\nNIM     : 220403010022\ntugas praktikum 2: tampilan aplikasi bisa di scroll"
+  }
+}
